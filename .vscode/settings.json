@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "common.h": "c",
+        "stat.h": "c",
+        "common_threads.h": "c"
+    }
+}
